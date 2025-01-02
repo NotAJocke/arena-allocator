@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Iinclude",
+      "-I/opt/homebrew/include/",
+      "-c",
+      "-o",
+      "test.o",
+      "test.c"
+    ],
+    "directory": "/Users/jocke/Developer/cArena",
+    "file": "/Users/jocke/Developer/cArena/test.c",
+    "output": "/Users/jocke/Developer/cArena/test.o"
+  }
+]
